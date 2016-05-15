@@ -1,0 +1,3 @@
+vhdl isim_temp "C:/Users/Anmol Kulkarni/Desktop/Project/Floating_Point_Library-JHU-master/FloatPt.vhd"
+vhdl isim_temp "mypackage.vhd"
+vhdl isim_temp "l1_error.vhd"

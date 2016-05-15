@@ -1,0 +1,3 @@
+MODULE test_bench
+SUBMODULE Top_module
+INSTANCE UUT
